@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/molotow-riot-art",
   siteMetadata: {
     siteUrl: "https://www.yourdomain.tld",
     title: "Molotow Riot Art",
